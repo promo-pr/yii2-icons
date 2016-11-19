@@ -1,5 +1,5 @@
 <?php
-namespace promo-pr\yii2-icons;
+namespace promo-pr\icons;
 
 use yii\web\AssetBundle;
 

@@ -19,7 +19,7 @@
 
   "autoload": {
     "psr-4": {
-      "promo-pr\\yii2-icons\\": "src/"
+      "promo-pr\\icons\\": ""
     }
   }
 }
