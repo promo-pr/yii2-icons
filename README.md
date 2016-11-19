@@ -37,7 +37,7 @@ class SiteAsset extends AssetBundle
 {
 ...
     public $depends = [
-        'promo-pr\icons\IconsAsset'
+        'promo\icons\IconsAsset'
     ];
 }
 ```
