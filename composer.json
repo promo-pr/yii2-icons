@@ -1,0 +1,25 @@
+{
+  "name": "promo-pr/yii2-icons",
+
+  "type": "yii2-extension",
+
+  "description": "Material design icons for Yii2",
+  "keywords": ["yii2", "material design", "material", "icons", "font", "asset"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Promo-pr",
+      "email": "1@promo-pr.ru"
+    }
+  ],
+
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "promo-pr\\yii2-icons\\": "src/"
+    }
+  }
+}
